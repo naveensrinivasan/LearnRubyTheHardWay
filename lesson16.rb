@@ -15,3 +15,5 @@ output.write(indata)
 
 puts "Done copying the file!"
 
+output.close
+
